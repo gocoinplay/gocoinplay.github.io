@@ -1,0 +1,283 @@
+# swees <yUSDC.github.io>
+VERSION="2.2.0"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+]
+
+[DOCUMENTATION]
+ORG_NAME="yUSDC"
+ORG_URL="https://yUSDC.github.io/"
+ORG_LOGO ="https://yUSDC.github.io/img/crown.png"
+ORG_OFFICIAL_EMAIL="yUSDC@proton.me"
+ORG_SUPPORT_EMAIL="yUSDC@proton.me"
+
+[[PRINCIPALS]]
+email="yusdc@proton.me"
+
+[[CURRENCIES]]
+code ="1BOSS"
+name ="1BOSS"
+issuer = "GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ."
+image="https://yUSDC.github.io/img/crown.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="SGB"
+name ="SWEES GOLD BOND"
+issuer = "GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ."
+image="https://yUSDC.github.io/img/SGB.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code ="BTC"
+name ="THIS IS KING"
+issuer = "GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ."
+image="https://yUSDC.github.io/img/BTC.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code ="Kay"
+name ="MAKER KAY"
+issuer = "GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ."
+image="https://yUSDC.github.io/img/Kay.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code="CHATGPT"
+name="ChatGPT"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="ChatGPT"
+image="https://yUSDC.github.io/img/chat.png"
+status="live"
+
+[[CURRENCIES]]
+code ="USD"
+name ="UNITED STET BOND"
+issuer = "GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ."
+image="https://yUSDC.github.io/img/USD.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code="GOLD"
+name="Gold Bond"
+issuer="
+"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="GolD"
+image="https://yUSDC.github.io/img/SGB.png"
+status="live"
+
+
+
+[[CURRENCIES]]
+code="RCEO"
+name="Received of customers"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="Received of customers"
+image="https://yUSDC.github.io/img/RECO.png"
+status="live"
+
+
+[[CURRENCIES]]
+code="BOSS"
+name="BOSS"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="BOSS"
+image="https://yUSDC.github.io/img/BOSS.png"
+status="live"
+
+
+[[CURRENCIES]]
+code="BOND"
+name="BOND"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="BOND"
+image="https://yUSDC.github.io/img/BOND.png"
+status="live"
+
+
+[[CURRENCIES]]
+code="T"
+name="T"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="T"
+image="https://
+.github.io/img/T.png"
+status="live"
+
+
+
+[[CURRENCIES]]
+code="1oo"
+name="100"
+issuer="
+"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="1oo"
+image="https://yUSDC.github.io/img/100.png"
+status="live"
+
+
+[[CURRENCIES]]
+code="Q"
+name="Question"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="Q"
+image="https://yUSDC.github.io/img/Q.png"
+status="live"
+
+
+
+[[CURRENCIES]]
+code="Yes"
+name="Yes"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="Yes"
+image="https://yUSDC.github.io/img/YES.png"
+status="live"
+
+[[CURRENCIES]]
+code ="USBS"
+name ="UNIT OF USDT"
+issuer = "
+"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ."
+image="https://yUSDC.github.io/img/USD.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+
+
+
+[[CURRENCIES]]
+code="SNP500"
+name="S&P"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="SNP500"
+image="https://
+.github.io/img/SNP.png"
+status="live"
+
+
+[[CURRENCIES]]
+code="DW"
+name="📛"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="DW"
+image="https://yUSDC.github.io/img/DW.png"
+status="live"
+
+
+
+[[CURRENCIES]]
+code="DEX"
+name="DX"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="dex"
+image="https://yUSDC.github.io/img/DEX.png"
+status="live"
+
+
+
+[[CURRENCIES]]
+code="POK"
+name="Pakistani Bond"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="POK"
+image="https://yUSDC.github.io/img/POK.png"
+status="live"
+
+
+[[CURRENCIES]]
+code="MBA"
+name="MASTAR"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="MASTAR"
+image="https://yUSDC.github.io/img/MBA.png"
+status="live"
+
+
+
+[[CURRENCIES]]
+code="GDDSX"
+name="GDDSX"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="ALL"
+image="https://yUSDC.github.io/img/STAR.png"
+status="live"
+
+
+[[CURRENCIES]]
+code="Wallet"
+name="wallet for pay"
+issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="wallet"
+image="https://yUSDC.github.io/img/wallet.png"
+status="live"

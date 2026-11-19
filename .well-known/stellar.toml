@@ -8,22 +8,22 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="yUSDC"
-ORG_URL="https://yUSDC.github.io/"
-ORG_LOGO ="https://yUSDC.github.io/img/crown.png"
-ORG_OFFICIAL_EMAIL="yUSDC@proton.me"
-ORG_SUPPORT_EMAIL="yUSDC@proton.me"
+ORG_URL="https://Gocoinplay.github.io/"
+ORG_LOGO ="https://Gocoinplay.github.io/img/crown.png"
+ORG_OFFICIAL_EMAIL="Gocoinplay@proton.me"
+ORG_SUPPORT_EMAIL="Gocoinplay@proton.me"
 
 [[PRINCIPALS]]
 email="yusdc@proton.me"
 
 [[CURRENCIES]]
-code ="1BOSS"
-name ="1BOSS"
+code ="GCP"
+name ="Gocoinplay"
 issuer = "GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://yUSDC.github.io/img/crown.png"
+image="https://Gocoinplay.github.io/img/Gocoinplay.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"

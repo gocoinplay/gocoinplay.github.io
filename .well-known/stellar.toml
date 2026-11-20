@@ -43,77 +43,75 @@ status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
+
 [[CURRENCIES]]
-code ="BTC"
-name ="THIS IS KING"
-issuer = "GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+code ="ASGB"
+name ="1SWEES GOLD BOND"
+issuer = "GALK3FHJGIZNSZARE3LWHDEY5XJWKQPWUTVODPEK22JQSMD6DKCMZQNI"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://yUSDC.github.io/img/BTC.png"
+image="https://GoCoinPlay.github.io/img/SGB.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="BSGB"
+name ="2SWEES GOLD BOND"
+issuer = "GALK3FHJGIZNSZARE3LWHDEY5XJWKQPWUTVODPEK22JQSMD6DKCMZQNI"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ."
+image="https://GoCoinPlay.github.io/img/SGB.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="Kay"
-name ="MAKER KAY"
-issuer = "GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+code ="CSGB"
+name ="3SWEES GOLD BOND"
+issuer = "GALK3FHJGIZNSZARE3LWHDEY5XJWKQPWUTVODPEK22JQSMD6DKCMZQNI"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://yUSDC.github.io/img/Kay.png"
+image="https://GoCoinPlay.github.io/img/SGB.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code="CHATGPT"
-name="ChatGPT"
-issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="ChatGPT"
-image="https://yUSDC.github.io/img/chat.png"
-status="live"
-
-[[CURRENCIES]]
-code ="USD"
-name ="UNITED STET BOND"
-issuer = "GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
+code ="DSGB"
+name ="4SWEES GOLD BOND"
+issuer = "GALK3FHJGIZNSZARE3LWHDEY5XJWKQPWUTVODPEK22JQSMD6DKCMZQNI"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://yUSDC.github.io/img/USD.png"
+image="https://GoCoinPlay.github.io/img/SGB.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code="GOLD"
-name="Gold Bond"
-issuer="
-"
+code ="ESGB"
+name ="5SWEES GOLD BOND"
+issuer = "GALK3FHJGIZNSZARE3LWHDEY5XJWKQPWUTVODPEK22JQSMD6DKCMZQNI"
 is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="GolD"
-image="https://yUSDC.github.io/img/SGB.png"
+display_decimals = 7
+desc="This is meme token of ."
+image="https://GoCoinPlay.github.io/img/SGB.png"
+conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
-
-
-
-[[CURRENCIES]]
-code="RCEO"
-name="Received of customers"
-issuer="GD5NPRET2NZBSOWFLNW7F5CNZLDG57GRCIH2AHUPBZBWMDXY72SFGAC5"
-is_asset_anchored=false
 anchor_asset_type="other"
-anchor_asset="Received of customers"
-image="https://yUSDC.github.io/img/RECO.png"
-status="live"
+fixed_number=1000000000
+
+
+
 
 
 [[CURRENCIES]]
